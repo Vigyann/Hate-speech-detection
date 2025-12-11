@@ -159,7 +159,6 @@ This visualization helps identify:
 - Often outperforms Naive Bayes in text classification tasks.
 ---
 ## Model Selection
-
 | Model | Reason for Use | Best Scenario |
 |-------|----------------|---------------|
 | **Naive Bayes** | Extremely fast, good with BOW | Short text, frequency matters |
@@ -170,7 +169,6 @@ In this project:
 - **TF IDF + SVM** provided the most reliable results due to its margin based separation capability.
 - Naive Bayes helped as a strong baseline.
 - Logistic Regression offered highly interpretable coefficients.
-
 ---
 
 ##  Additional Corpus EDA
@@ -195,7 +193,7 @@ This project demonstrates end to end NLP workflow:
 - Visualization  
 - Machine learning classification  
 
-It provides clear insight into hate speech patterns and offers a scalable, reproducible structure for real-world moderation systems.
+  It provides clear insight into hate speech patterns and offers a scalable, reproducible structure for real-world moderation systems.
 ---
 
 ##  Like This Project?  
